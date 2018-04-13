@@ -25,6 +25,12 @@ Do you know the data format of the reference data? Is this suitable for your wor
   * If you have any ideas, please go to [issues].
   * You can provide any extra resources in the `/resources` directory via [pull request].
 
+## Please contribute!
+
+  * [Want to propose a new resource?](https://github.com/DSQResources/DSQ-jxb/issues/new)
+  * [Want to report an issue / give a feedback?](https://github.com/DSQResources/DSQ-jxb/issues/new)
+  * [We also welcome pull requests!](https://github.com/DSQResources/DSQ-jxb/pulls)
+
 ----
 
 *Do not edit this README file by hand, it is automatically generated*
